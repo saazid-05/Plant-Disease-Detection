@@ -1,0 +1,48 @@
+# Git Commands to Upload Plant Disease Detection Project to GitHub
+
+## Step 1: Initialize Git Repository
+cd Plant-Disease-Identification-using-CNN-master
+git init
+
+## Step 2: Add all files to staging
+git add .
+
+## Step 3: Create initial commit
+git commit -m "Initial commit: Plant Disease Detection using CNN
+
+- Added modern TensorFlow 2.x compatible code
+- Created demo version with synthetic data
+- Added comprehensive setup instructions
+- Included requirements.txt and proper documentation
+- Fixed deprecated Keras imports and functions
+- Added data augmentation and model visualization"
+
+## Step 4: Create GitHub repository
+# Go to GitHub.com and create a new repository named:
+# "Plant-Disease-Identification-using-CNN"
+# (Don't initialize with README, .gitignore, or license since we already have them)
+
+## Step 5: Add remote origin (replace 'yourusername' with your GitHub username)
+git remote add origin https://github.com/yourusername/Plant-Disease-Identification-using-CNN.git
+
+## Step 6: Push to GitHub
+git branch -M main
+git push -u origin main
+
+## Alternative: If you prefer SSH (after setting up SSH keys)
+# git remote add origin git@github.com:yourusername/Plant-Disease-Identification-using-CNN.git
+# git push -u origin main
+
+## Step 7: Verify upload
+# Go to your GitHub repository URL to confirm all files are uploaded
+
+## Future updates (after making changes):
+# git add .
+# git commit -m "Description of changes"
+# git push origin main
+
+## Useful Git commands for future use:
+# git status                    # Check status of files
+# git log --oneline            # View commit history
+# git pull origin main         # Pull latest changes from GitHub
+# git clone <repo-url>         # Clone repository to new location
