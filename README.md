@@ -303,10 +303,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Contact
 
-**Author**: Your Name  
-**Email**: your.email@example.com  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+**Author**: Shaik Saazid Hussain
+**Email**: shaiksaazid8@gmail.com 
+**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shaik-saazid-hussain)
+**GitHub**: [https://github.com/yourusername](https://github.com/saazid-05)
 
 ---
 
